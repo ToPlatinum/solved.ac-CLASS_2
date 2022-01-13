@@ -5,3 +5,4 @@
 https://www.acmicpc.net/workbook/view/8188 에서 문제를 풀어봅시다.
 ## 화이팅..!
 ~20220118 : https://www.acmicpc.net/problem/11050 풀어오기
+## 1은 너무 쉽잖아..?
