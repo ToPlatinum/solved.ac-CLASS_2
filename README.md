@@ -1,2 +1,3 @@
 # solved.ac-CLASS_2
-오늘도 열심히 코드를 짜네
+모임 시간 : 화 목 20:00~22:00
+풀이 방식 : https://www.acmicpc.net/workbook/view/8188 에서 문제를 풀어봅시다.
