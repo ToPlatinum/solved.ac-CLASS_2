@@ -1,5 +1,10 @@
 # solved.ac-CLASS_2
 # 다들 PULL 먼저 하고 PUSH 하세요
+# Commit 메세지 양식은 ISSUE 탭에 있습니다~
+# git commit -m "요기 안에 넣을 내용"
+# EX) git commit -m "SWEA : 7272. 안경이 없어!"
+# EX) git commit -m "백준 : 1592 영식이와 친구들"
+# EX) git commit -m "정올 : 1523 별삼각형1"
 ## 모임 시간
 화 목 20:00~22:00<br>
 ## 풀이 방식
