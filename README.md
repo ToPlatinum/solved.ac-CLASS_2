@@ -7,9 +7,9 @@
 mattermost에 올라온 문제를 풉니다.<br>
 하루에 하나씩 풉니다.
 ### 이번주 목록 (~2022/01/23)
-> SWEA : 7272. 안경이 없어! : https://shorturl.at/qvDIK<br>
-> SWEA : 2805. 농작물 수확하기 : https://shorturl.at/pCHMZ<br>
-> SWEA : 1234. [S/W 문제해결 기본] 10일차 - 비밀번호 : https://shorturl.at/aduDG<br>
+> SWEA : 7272. 안경이 없어! : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWl0ZQ8qn7UDFAXz<br>
+> SWEA : 2805. 농작물 수확하기 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB<br>
+> SWEA : 1234. [S/W 문제해결 기본] 10일차 - 비밀번호 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14_DEKAJcCFAYD<br>
 > 백준 : 1592 영식이와 친구들 : https://www.acmicpc.net/problem/1592<br>
 > 백준 : 2798 블랙잭 : https://www.acmicpc.net/problem/2798<br>
 > 백준 : 11399 ATM : https://www.acmicpc.net/problem/11399<br>
