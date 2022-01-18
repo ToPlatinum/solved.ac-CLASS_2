@@ -1,4 +1,6 @@
-# solved.ac-CLASS_2
+# solved.ac-CLASS_2 
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=JAVA&logoColor=white"> </br>
+
 ### 문제를 풀고 PUSH 전에 PULL 하는 것을 습관화 합시다.
 ### Commit 메세지 양식은 ISSUE 탭에 있습니다~
 ### `git commit -m "메세지 규칙"`
