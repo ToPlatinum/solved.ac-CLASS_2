@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class temporary {
+public class BOJ11050 {
     private static int n, k, result;
 
     public static void dfs(int start, int k) {
