@@ -6,5 +6,5 @@
 	- [SWEA : 7272. 안경이 없어!](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWl0ZQ8qn7UDFAXz)
 - 2022-01-18
 	 - [SWEA : 2805. 농작물 수확하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB)
-- 2022-01-29
+- 2022-01-19
 	- [SWEA : 1234. [S/W 문제해결 기본] 10일차 - 비밀번호](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14_DEKAJcCFAYD)
