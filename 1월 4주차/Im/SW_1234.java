@@ -24,7 +24,7 @@ public class SW_1234 {
 
       int cnt = 0;
       while (true) {
-        if (cnt == list.size() - 1) {// cnt가 리스트의 가장 마지막위치와 같다면 멈추기
+        if (cnt == list.size() - 1) {// cnt가 리스트의 가장 마지막위치와 같다면 멈추기!
           break;
         }
         if (list.get(cnt).equals(list.get(cnt + 1))) {
