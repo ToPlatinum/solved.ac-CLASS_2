@@ -11,5 +11,6 @@
 - 2022-01-21
 	- [백준 : 1592번 - 영식이와 친구들](https://www.acmicpc.net/problem/1592)
 - 2022-01-23
+	- [백준 : 2798번 - 블랙잭](https://www.acmicpc.net/problem/2798)
 	- [백준 : 11399번 - ATM](https://www.acmicpc.net/problem/11399)
 	
