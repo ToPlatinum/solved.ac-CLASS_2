@@ -20,12 +20,10 @@ public class Swea1234 {
                 } else {
                     stack.push(arr[j]);
                 }
-
             }
             String result = "";
             for (int j = 0; j < stack.size(); j++) result += stack.get(j);
             System.out.printf("#%d %s%n", i, result);
-
         }
     }
 }
