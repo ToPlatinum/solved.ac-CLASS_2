@@ -1,4 +1,4 @@
-package Algorithm;
+package SSAFY;
 
 import java.util.Scanner;
 import java.util.Arrays;
