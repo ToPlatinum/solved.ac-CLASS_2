@@ -24,11 +24,11 @@ public class JO1329 {
                 // 아래
                 else {
                     // 공백
-                    for (int j = 0; j < 6 - i; j++) {
+                    for (int j = 0; j < n - i - 1; j++) {
                         System.out.print(" ");
                     }
                     // 별 찍기
-                    for (int j = 0; j < 1 + 2 * (6 - i); j++) {
+                    for (int j = 0; j < 1 + 2 * (n - i - 1); j++) {
                         System.out.print("*");
                     }
                     System.out.println();
