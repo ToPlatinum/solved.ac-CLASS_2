@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; 
 
 public class BJ_2999 {
 	public static void main(String[] args) {
