@@ -39,4 +39,17 @@ mattermost에 올라온 문제를 풉니다.<br>
 > #### 설 연휴 까지 <br>
 > 백준 : 2941 크로아티아 알파벳 : https://www.acmicpc.net/problem/2941<br>
 > 백준 : 2999 비밀 이메일 : https://www.acmicpc.net/problem/2999<br>
+> >-------
+> #### 추가 문제 <br>
+> SWEA : 1208 Flatten : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV139KOaABgCFAYh<br>
+> SWEA : 1974 스도쿠 검증 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Psz16AYEDFAUq<br>
+> SWEA : 1940 가랏! RC카 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PjMgaALgDFAUq<br>
+> SWEA : 2805 농작물 수확하기 2 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB<br>
+> SWEA : 5432 쇠막대기 자르기 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVl47b6DGMDFAXm<br>
+> SWEA : 1289 원재의 메모리 복구 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV19AcoKI9sCFAZN<br>
+> SWEA : 4615 재미있는 오셀로 게임 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWQmA4uK8ygDFAXj<br>
+> SWEA : 1873 상호의 배틀필드 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LyE7KD2ADFAXc<br>
+> SWEA : 1859 백만장자 프로젝트 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc<br>
+> SWEA : 6730 장애물 경주 난이도 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWefy5x65PoDFAUh<br>
+> SWEA : 6958 동철이의 프로그래밍 대회 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWjlFcGK3dMDFAVT<br>
 ## 화이팅..!
