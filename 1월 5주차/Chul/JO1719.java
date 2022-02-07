@@ -26,7 +26,7 @@ public class JO_1719 {
 			 }
 	   
 			 for(int i = 0; i< n/2; ++i){
-				 for(int j = n/2-1-i; j >= 0; --j){
+				 for(int j = n/2-1-i; j >= 0; --j){ 
 					 System.out.print("*");
 				 }
 				 System.out.println();
