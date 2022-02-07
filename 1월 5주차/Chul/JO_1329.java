@@ -11,7 +11,7 @@ public class JO_1329 {
             System.out.println("INPUT ERROR!");
             return;
         }
-        for(int i = 0 ; i < N/2+1; ++i)
+        for(int i = 0 ; i < N/2+1; ++i) 
         {
             for(int j = 0; j < i; ++j)
                 System.out.print(" ");
