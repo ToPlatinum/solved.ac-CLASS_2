@@ -1,5 +1,5 @@
 package JUNGOL;
-
+ 
 import java.util.Scanner;
 
 public class JO_1719 {
