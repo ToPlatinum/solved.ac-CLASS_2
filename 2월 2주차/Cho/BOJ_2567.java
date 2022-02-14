@@ -8,7 +8,7 @@ public class BOJ_2567 {
 		Scanner sc = new Scanner(System.in);
 		int N = sc.nextInt();
 		
-		int[][] board = new int[100][100];
+		int[][] board = new int[101][101];
 		int result = 0;
 		
 		for(int n=0; n<N; n++) {
