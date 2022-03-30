@@ -1,0 +1,49 @@
+package BaekJoon;
+
+import java.util.*;
+import java.io.*;
+
+public class BJ_S1_1697_숨바꼭질 {
+	 	static int N, K;
+	    static int[] map;
+
+	    public static void main(String[] args) {
+	        Scanner sc = new Scanner(System.in);
+	        N = sc.nextInt(); //수빈 현 위치
+	        K = sc.nextInt(); //동생 현 위치
+
+	        map = new int[100001];// 0~100,000까지
+	        bfs(N, K);
+	    }
+
+	    public static void bfs(int N, int K) {
+	        Queue<Integer> Q = new LinkedList<>();
+	        Q.add(N); //수빈 위치 큐에 삽입
+	        map[N] = 1; //방문 체크
+	        int current =0;//수빈의 현재위치
+            int move = 0; //움직인 위치
+            
+	        while (!Q.isEmpty()) {
+	            current = Q.poll(); 
+	            if (current == K) { //수빈의 현재 위치와 동생의 위치가 같으면 탐색 종료
+	                System.out.println(map[current] - 1);
+	                return;
+	            }
+
+	            for (int i = 0; i < 3; i++) { //걷기+1, -1, 순간이동
+	                if (i == 0) { //걷기-1
+	                	move = current - 1;
+	                } else if (i == 1) { //걷기+1
+	                	move = current + 1;
+	                } else { //순간이동*2
+	                	move = current * 2;
+	                }
+
+	                if (0 <= move && move <= 100000 && map[move]==0) { //범위를 벗어나지 않고 방문하지 않은 곳이면
+	                        Q.add(move); //해당 점 위치 큐에 삽입
+	                        map[move] = map[current] + 1; //1초 후의 값을 해당 점 위치 배열에 삽입
+	                }
+	            }
+	        }
+	    }
+	}
