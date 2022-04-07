@@ -1,38 +1,28 @@
-package algostudy;
 
-import java.util.Arrays;
-
-class pg행렬테두리회전하기 {
-
-	static int[][] matrix;
-
-	public static void main(String[] args) {
-		int rows = 6;
-		int columns = 6;
-		int[][] queries = { { 2, 2, 5, 4 }, { 3, 3, 6, 6 }, { 5, 1, 6, 3 } };
-
-		matrix = new int[rows][columns];
-		int[] answer = new int[queries.length];
-
-		// 행렬 값 때려넣기
+class Solution {
+    static int[][] matrix;
+    public int[] solution(int rows, int columns, int[][] queries) {
+        matrix = new int[rows][columns];
+        int[] answer = new int[queries.length];
+         // 행렬 값 때려넣기
 		int value = 1;
 		for (int i = 0; i < rows; i++) {
 			for (int j = 0; j < columns; j++) {
 				matrix[i][j] = value++;
 			}
 		}
-		print();
+		//print();
 		// 한줄씩 보내
-		for (int i = 0; i < 1; i++) {
+		for (int i = 0; i < queries.length; i++) {
 			answer[i] = rotate(queries[i]);
 			// System.out.println("회전 : " + (i + 1));
 			// print();
 		}
-
-		System.out.println(Arrays.toString(answer));
-	}
-
-	public static int rotate(int[] query) {
+       
+        return answer;
+    }
+    
+        public static int rotate(int[] query) {
 		// 시작 행,열
 		int r1 = query[0] - 1;
 		int c1 = query[1] - 1;
@@ -77,16 +67,4 @@ class pg행렬테두리회전하기 {
 		// print();
 		return min;
 	}
-
-	public static void print() {
-
-		for (int i = 0; i < matrix.length; i++) {
-			for (int j = 0; j < matrix[0].length; j++) {
-				System.out.print(matrix[i][j] + " ");
-			}
-			System.out.println();
-		}
-		System.out.println();
-	}
-
 }
