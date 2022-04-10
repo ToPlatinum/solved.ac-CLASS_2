@@ -13,7 +13,7 @@ import java.util.Comparator;
  */
 public class 주차요금계산 {
 
-	static ArrayList<Integer> ans = new ArrayList();
+	static ArrayList<Integer> ans = new ArrayList<Integer>();
 	int[] answer = {};
 	static String car_num, inout;
 	static boolean in = false;
@@ -33,9 +33,8 @@ public class 주차요금계산 {
 		});
 
 		car_num = records[0].substring(6, 10);// 차 번호
+		
 		for (int i = 0; i < records.length; i++) {
-//			System.out.println("h: " + hour);
-//			System.out.println("m: " + minute);
 			// 차량번호 중복 체크
 			if (!car_num.equals(records[i].substring(6, 10))) {
 				Fees(fees);
@@ -69,7 +68,7 @@ public class 주차요금계산 {
 		// 누적시간이 기본시간을 초과하면
 		// 기본요금+단위시간마다의 단위요금(올림)
 		else {
-			ans.add(fees[1] + (int) Math.ceil((totalTime - fees[0]) / fees[2]) * fees[3]);
+			ans.add((int)(fees[1] +  Math.ceil((double)(totalTime - fees[0]) / fees[2]) * fees[3]));
 		}
 	}
 
