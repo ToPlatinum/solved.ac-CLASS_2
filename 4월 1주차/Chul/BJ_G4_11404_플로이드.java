@@ -24,7 +24,7 @@ public class BJ_G4_11404_플로이드 {
 			}
 		}
 
-		// 인접행렬 입력
+		// 인접행렬 입력(최소비용일 때만 입력받는다)
 		for (int i = 0; i < M; i++) {
 			int start = sc.nextInt() - 1; //시작도시와 도착도시가 같은 경우x
 			int end = sc.nextInt() - 1;
@@ -47,7 +47,7 @@ public class BJ_G4_11404_플로이드 {
 			}
 		}
 
-		// INF가 있으면 0으로 처리
+		// 인접행렬에 INF가 있으면 0으로 처리
 		for (int i = 0; i < N; i++) {
 			for (int j = 0; j < N; j++) {
 				if (adjM[i][j] == INF)
