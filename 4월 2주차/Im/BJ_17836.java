@@ -43,23 +43,16 @@ public class BJ_17836 {
 		}
 		// 오리지널 방법으로 구한 값
 		originresult = bfs1(0, 0, new boolean[N][M]);
-//		System.out.println("originresult= " + originresult);
 		if (originresult == -1)
 			originresult = Integer.MAX_VALUE;
 		// gram의 위치를 기준으로 시간 계산
 		gramresult = bfs2(0, 0, new boolean[N][M]);
-//		System.out.println("gramresult= " + gramresult);
 		if (gramresult == -1)
 			gramresult = Integer.MAX_VALUE;
 
 		result = Math.min(originresult, gramresult);
 		System.out.println(result <= T ? result : "Fail");
-//		printmap();
-//		System.out.println(result);
-//		System.out.println((N - 1) + " " + (M - 1));
-//		System.out.println("tempresult= " + tempresult);
-//		System.out.println("gram= " + (gram[2] + tempresult));
-//		System.out.println(Arrays.toString(gram));
+
 	}
 
 	public static void printmap() {
@@ -91,8 +84,6 @@ public class BJ_17836 {
 			// 공주를 찾았다면
 			if (r == gram[0] && c == gram[1]) {
 				int tempadd = Math.abs(r - (N - 1)) + Math.abs(c - (M - 1));
-//				System.out.println(cnt);
-//				System.out.println(tempadd);
 				return cnt + tempadd;
 			}
 			for (int d = 0; d < 4; d++) {
@@ -124,7 +115,6 @@ public class BJ_17836 {
 			int cnt = temparr[2];
 			// 공주를 찾았다면
 			if (r == N - 1 && c == M - 1) {
-				// result와 cnt의 최소값을 출력해라
 				return cnt;
 			}
 			for (int d = 0; d < 4; d++) {
