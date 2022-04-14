@@ -22,7 +22,6 @@ public class BOJ_17836 { //공주님을 구해라 !
 		M = Integer.parseInt(st.nextToken());
 		T = Integer.parseInt(st.nextToken()); //제한 시간
 		
-		
 		map = new int[N][M];
 		v = new boolean[N][M][2]; //그람 여부- 0:x, 1:o
 		
