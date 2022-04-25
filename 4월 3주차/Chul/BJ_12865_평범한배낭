@@ -1,0 +1,42 @@
+import java.util.*;
+
+public class BJ_12865_평범한배낭 {
+		static int N, K;
+		static Integer[][] result;
+		static int[] W; // weight
+		static int[] V; // value
+
+		public static void main(String[] args) {
+			Scanner sc = new Scanner(System.in);
+
+			N = sc.nextInt(); //물품의 수
+			K = sc.nextInt(); //무게
+			W = new int[N]; //각 물건의 무게
+			V = new int[N]; //각 물건의 가치
+			result = new Integer[N+1][K + 1]; //0부터 목표무게까지
+
+			for (int i = 1; i <= N; i++) {
+				W[i] = sc.nextInt();
+				V[i] = sc.nextInt();
+			}
+
+			System.out.println(backpack(N - 1, K));
+			sc.close();
+		}
+
+		static int backpack(int item, int Weight) {
+
+			// 비어있는 값들
+			if (result[item][Weight] == null) {
+
+				// 현재 물건을 담을 수 없을때
+				if (W[item] >= Weight) {
+					// 이전 값으로 설정
+					result[item][Weight] = backpack(item - 1, Weight);
+				}else{// 현재 물건을 담을 수 있을때
+					result[item][Weight] = Math.max(backpack(item - 1, Weight), backpack(item - 1, Weight - W[item]) + V[item]); 
+				}//담는경우와 담지않을 때 비교 
+			}
+			return result[item][Weight];
+		}
+	}
