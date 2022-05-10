@@ -42,7 +42,7 @@ public class BJ_G4_16938_캠프준비 {
 
 			int[] question = new int[coicecnt];
 			int idx = 0;
-			int sum = 0;// 문제 난이도 합
+			int sum = 0;// 문제 난이도 합 
 			// 문제 난이도 합 후에 정렬
 			for (int i = 0; i < N; i++) {
 				if (subset[i]) {
