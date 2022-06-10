@@ -14,5 +14,18 @@
 ## 진행 방식
 매주 화요일 문제 선정 및 전 주 문제 발표 및 리뷰
 
-
+### 스터디 멤버
+<table>
+    <tr height="140px">
+        <td align="center" width="130px">
+            <a href="https://github.com/minwoo9629"><img height="100px" width="100px" src=""/></a>
+            <br />
+            <a href="https://github.com/minwoo9629">이민우</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/chasonghui"><img height="100px" width="100px" src=""/></a>
+            <br />
+            <a href="https://github.com/chasonghui">차송희</a>
+        </td>
+    </tr>
 ## 화이팅..!
