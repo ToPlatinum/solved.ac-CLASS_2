@@ -28,4 +28,20 @@
             <a href="https://github.com/chasonghui">차송희</a>
         </td>
     </tr>
+    <tr height="50px">
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=minwoo9629" />
+            <br />
+            <a href="https://www.acmicpc.net/user/minwoo9629">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/minwoo9629">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=chasonghui" />
+            <br />
+            <a href="https://www.acmicpc.net/user/chasonghui">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/chasonghui">solved.ac</a>
+        </td>
+    </tr>
 ## 화이팅..!
