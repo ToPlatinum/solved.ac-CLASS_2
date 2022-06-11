@@ -5,22 +5,22 @@
 <table>
     <tr height="140px">
         <td align="center" width="130px">
-            <a href="https://github.com/minwoo9629"><img height="100px" width="100px" src=""/></a>
+            <a href="https://github.com/minwoo9629"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/46440898?v=4"/></a>
             <br />
             <a href="https://github.com/minwoo9629">이민우</a>
         </td>
         <td align="center" width="130px">
-            <a href="https://github.com/chasonghui"><img height="100px" width="100px" src=""/></a>
+            <a href="https://github.com/chasonghui"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/44563011?v=4"/></a>
             <br />
             <a href="https://github.com/chasonghui">차송희</a>
         </td>
         <td align="center" width="130px">
-            <a href="https://github.com/cornsilk-tea"><img height="100px" width="100px" src=""/></a>
+            <a href="https://github.com/cornsilk-tea"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/30141920?v=4"/></a>
             <br />
             <a href="https://github.com/cornsilk-tea">임웅균</a>
         </td>
         <td align="center" width="130px">
-            <a href="https://github.com/sungmunjo"><img height="100px" width="100px" src=""/></a>
+            <a href="https://github.com/sungmunjo"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/80288379?v=4"/></a>
             <br />
             <a href="https://github.com/sungmunjo">성문조</a>
         </td>
@@ -59,17 +59,17 @@
 <table>
     <tr height="140px">
         <td align="center" width="130px">
-            <a href="https://github.com/Wondae-code"><img height="100px" width="100px" src=""/></a>
+            <a href="https://github.com/Wondae-code"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/48678910?v=4"/></a>
             <br />
             <a href="https://github.com/Wondae-code">김대원</a>
         </td>
         <td align="center" width="130px">
-            <a href="https://github.com/ljc0328"><img height="100px" width="100px" src=""/></a>
+            <a href="https://github.com/ljc0328"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/24322769?v=4"/></a>
             <br />
             <a href="https://github.com/ljc0328">이정철</a>
         </td>
         <td align="center" width="130px">
-            <a href="https://github.com/dus6982"><img height="100px" width="100px" src=""/></a>
+            <a href="https://github.com/dus6982"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/97671781?v=4"/></a>
             <br />
             <a href="https://github.com/dus6982">조다연</a>
         </td>
