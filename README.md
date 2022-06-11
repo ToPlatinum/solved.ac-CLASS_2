@@ -24,21 +24,6 @@
             <br />
             <a href="https://github.com/sungmunjo">성문조</a>
         </td>
-        <td align="center" width="130px">
-            <a href="https://github.com/Wondae-code"><img height="100px" width="100px" src=""/></a>
-            <br />
-            <a href="https://github.com/Wondae-code">김대원</a>
-        </td>
-        <td align="center" width="130px">
-            <a href="https://github.com/ljc0328"><img height="100px" width="100px" src=""/></a>
-            <br />
-            <a href="https://github.com/ljc0328">이정철</a>
-        </td>
-        <td align="center" width="130px">
-            <a href="https://github.com/dus6982"><img height="100px" width="100px" src=""/></a>
-            <br />
-            <a href="https://github.com/dus6982">조다연</a>
-        </td>
     </tr>
     <tr height="50px">
         <td align="center">
@@ -69,6 +54,27 @@
             <br />
             <a href="https://solved.ac/profile/moonjo621">solved.ac</a>
         </td>
+    </tr>
+</table>
+<table>
+    <tr height="140px">
+        <td align="center" width="130px">
+            <a href="https://github.com/Wondae-code"><img height="100px" width="100px" src=""/></a>
+            <br />
+            <a href="https://github.com/Wondae-code">김대원</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/ljc0328"><img height="100px" width="100px" src=""/></a>
+            <br />
+            <a href="https://github.com/ljc0328">이정철</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/dus6982"><img height="100px" width="100px" src=""/></a>
+            <br />
+            <a href="https://github.com/dus6982">조다연</a>
+        </td>
+    </tr>
+    <tr height="50px">
         <td align="center">
             <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=noin1996" />
             <br />
