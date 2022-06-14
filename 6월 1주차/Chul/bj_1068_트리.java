@@ -50,4 +50,4 @@ public class bj_1068_트리 {
 				count++;
 		}
 	}
-}
+} 
